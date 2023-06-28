@@ -9,6 +9,6 @@ Steps:
 
 - Just install the packages inside with npm install
 - Once done, inside the directory, type node app.js or if you have nodemon, nodemon app.js
-- It should display "Serving at port 8080!" in the console of your IDE
+- If successful, it should display "Serving at port 8080!" on the console of your IDE.
 
 Reach out to the developer for any questions or concerns!
