@@ -9,6 +9,7 @@ Steps:
 
 - Just install the packages inside with npm install
 - Once done, inside the directory, type node app.js or if you have nodemon, nodemon app.js
-- If successful, it should display "Serving at port 8080!" on the console of your IDE.
+- If successful, it should display "Serving at port 8080!" on the console of your IDE
+- Make sure to run this before the FE repo
 
 Reach out to the developer for any questions or concerns!
